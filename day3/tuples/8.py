@@ -1,0 +1,5 @@
+my_tuple=(12,23,7,17,30)
+maximum=max(my_tuple)
+minimum=min(my_tuple)
+print("maximum value:",maximum)
+print("minimum value:",minimum)
