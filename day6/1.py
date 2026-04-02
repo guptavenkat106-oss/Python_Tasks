@@ -1,4 +1,4 @@
-subjects = ("math", "science", "english")
+bjects = ("math", "science", "english")
 
 student_names = set()
 student_marks = {}
