@@ -16,5 +16,5 @@ student2 = Student("Srikanth", 2, 77)
 student3 = Student("Akhil", 3, 90)
 
 student1.display()
-student2.display()
+student2.display() 
 student3.display()
