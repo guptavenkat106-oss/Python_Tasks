@@ -1,0 +1,3 @@
+user loggged in
+Opened dashboard
+ Clicked settings

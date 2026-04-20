@@ -1,0 +1,6 @@
+INFO: System started
+ERROR: Disk not found
+WARNING: Low memory
+ERROR: File missing
+INFO: Process running
+ERROR: Disk not found
