@@ -1,0 +1,501 @@
+Unnamed: 0,score_phrase,title,url,platform,score,genre,editors_choice,release_year,release_month,release_day
+0,Awful,Game 0,/games/game-0,Wii,4.2176265973051255,Strategy,Y,2002,7,1
+1,Okay,Game 1,/games/game-1,Xbox,7.953418379590974,Adventure,Y,2015,12,23
+2,Awful,Game 2,/games/game-2,Xbox 360,7.450645481202204,Adventure,Y,2010,4,15
+3,Masterpiece,Game 3,/games/game-3,Nintendo 64,0.5488261464647493,Adventure,N,2006,3,1
+4,Good,Game 4,/games/game-4,PlayStation 2,4.551436850361561,Platformer,N,2003,10,25
+5,Painful,Game 5,/games/game-5,PlayStation,5.22434576071169,Sports,N,2016,5,17
+6,Disaster,Game 6,/games/game-6,Nintendo 64,6.445466506258222,Action,Y,2002,5,1
+7,Awful,Game 7,/games/game-7,PlayStation 3,6.501673504432281,Adventure,N,2014,3,15
+8,Great,Game 8,/games/game-8,iPhone,3.646972494573059,Fighting,Y,2006,12,23
+9,Great,Game 9,/games/game-9,PlayStation 2,5.60677194003514,Puzzle,Y,2006,9,2
+10,Amazing,Game 10,/games/game-10,PlayStation,4.810618838440864,Shooter,N,2016,4,14
+11,Awful,Game 11,/games/game-11,PlayStation,8.849983565232812,Fighting,N,1999,11,21
+12,Disaster,Game 12,/games/game-12,Wii,5.302651326349002,Action,Y,2003,5,8
+13,Unbearable,Game 13,/games/game-13,Wii,4.410321617481616,Platformer,Y,1998,4,8
+14,Masterpiece,Game 14,/games/game-14,Nintendo DS,4.044854496818507,Action,N,2016,5,19
+15,Bad,Game 15,/games/game-15,Nintendo 64,5.724277594334657,,N,1997,7,7
+16,Disaster,Game 16,/games/game-16,Nintendo 64,8.039769794008976,Puzzle,N,2007,9,19
+17,Bad,Game 17,/games/game-17,Nintendo 64,5.384014903807875,Shooter,N,2001,7,6
+18,Bad,Game 18,/games/game-18,Nintendo DS,6.6165517508054155,Racing,Y,1997,5,6
+19,Painful,Game 19,/games/game-19,PC,7.37855766906525,Puzzle,N,2016,10,3
+20,Amazing,Game 20,/games/game-20,PlayStation,5.2016810987873185,Action,N,1996,10,7
+21,Disaster,Game 21,/games/game-21,PlayStation 2,4.268170566548644,,N,2007,7,19
+22,Disaster,Game 22,/games/game-22,PlayStation 3,8.766653778624494,Action,Y,2007,10,8
+23,Painful,Game 23,/games/game-23,PlayStation,4.175060840278921,Action,Y,2012,5,10
+24,Awful,Game 24,/games/game-24,Wii,4.6194285057558755,Puzzle,Y,2005,3,20
+25,Awful,Game 25,/games/game-25,Xbox 360,9.903413133417772,Racing,Y,2011,7,15
+26,Awful,Game 26,/games/game-26,iPhone,0.002375235758845795,Action,N,2010,11,15
+27,Mediocre,Game 27,/games/game-27,Nintendo DS,1.8547290957672247,Fighting,Y,2010,11,1
+28,Bad,Game 28,/games/game-28,Xbox,3.8396388991972574,Strategy,N,2014,2,20
+29,Mediocre,Game 29,/games/game-29,Xbox 360,9.325899094252529,RPG,N,2007,12,7
+30,Amazing,Game 30,/games/game-30,PlayStation 3,0.7002970574747103,RPG,N,2015,9,27
+31,Painful,Game 31,/games/game-31,Nintendo 64,,Action,N,1998,10,4
+32,Disaster,Game 32,/games/game-32,Wii,0.5268383597722859,Fighting,Y,2000,10,6
+33,Masterpiece,Game 33,/games/game-33,Wii,0.8854341061361815,Adventure,Y,2014,12,25
+34,Bad,Game 34,/games/game-34,Wii,0.3759677320626087,Platformer,Y,2002,1,1
+35,Mediocre,Game 35,/games/game-35,Nintendo 64,4.797813268565047,Platformer,N,2016,6,5
+36,Mediocre,Game 36,/games/game-36,Xbox,5.8075720722732775,Puzzle,N,2004,7,27
+37,Okay,Game 37,/games/game-37,Nintendo DS,2.716869710690041,RPG,N,2002,8,23
+38,Mediocre,Game 38,/games/game-38,Xbox 360,3.9828738397563557,,N,2013,10,1
+39,Unbearable,Game 39,/games/game-39,Nintendo 64,0.9169933511143014,Platformer,N,1999,9,4
+40,Disaster,Game 40,/games/game-40,PlayStation 3,3.3637046382842204,Action,Y,2009,2,22
+41,Unbearable,Game 41,/games/game-41,Nintendo DS,5.225191916345231,Puzzle,N,2013,11,2
+42,Disaster,Game 42,/games/game-42,PlayStation 3,7.3227180718464515,RPG,Y,2004,10,10
+43,Painful,Game 43,/games/game-43,Nintendo DS,0.03346362042979223,Shooter,N,2016,2,5
+44,Disaster,Game 44,/games/game-44,Xbox,4.673107665376525,Strategy,N,1997,5,27
+45,Unbearable,Game 45,/games/game-45,iPhone,2.970028764548822,Strategy,Y,2015,5,10
+46,Disaster,Game 46,/games/game-46,PlayStation 3,8.528218216919013,Platformer,Y,2010,6,1
+47,Painful,Game 47,/games/game-47,Nintendo 64,7.15553315234242,Strategy,N,2002,3,22
+48,Painful,Game 48,/games/game-48,Nintendo DS,5.891085344708948,Shooter,N,2007,8,6
+49,Amazing,Game 49,/games/game-49,Wii,2.772656456967736,Action,N,2003,1,13
+50,Disaster,Game 50,/games/game-50,PlayStation,9.103391020575343,Puzzle,N,2010,6,15
+51,Masterpiece,Game 51,/games/game-51,Wii,0.4510067722032318,Shooter,Y,1998,4,4
+52,Okay,Game 52,/games/game-52,PC,1.0946759867911515,Puzzle,N,2009,1,13
+53,Awful,Game 53,/games/game-53,iPhone,3.9163014054035603,Puzzle,Y,2012,7,24
+54,Great,Game 54,/games/game-54,iPhone,1.2443755729685635,RPG,N,1999,9,20
+55,Painful,Game 55,/games/game-55,Wii,9.56415697559425,Action,Y,2013,4,24
+56,Good,Game 56,/games/game-56,Xbox 360,7.979893221433834,Fighting,Y,2003,4,15
+57,Awful,Game 57,/games/game-57,Xbox,2.5898265160181366,Strategy,N,1999,6,8
+58,Bad,Game 58,/games/game-58,PlayStation 3,,Fighting,Y,1997,12,5
+59,Disaster,Game 59,/games/game-59,Nintendo 64,9.823305150800817,RPG,N,2001,3,15
+60,Unbearable,Game 60,/games/game-60,iPhone,8.841989781315029,Puzzle,Y,2005,12,4
+61,Great,Game 61,/games/game-61,Wii,6.00798446442198,Platformer,N,1999,6,12
+62,Good,Game 62,/games/game-62,Wii,9.037239671752705,Strategy,Y,2013,7,13
+63,Awful,Game 63,/games/game-63,Xbox,9.891849098133589,Strategy,N,2007,11,2
+64,Disaster,Game 64,/games/game-64,Xbox,7.433528228936241,Action,N,1997,10,27
+65,Amazing,Game 65,/games/game-65,PlayStation 2,0.6498640948289403,Racing,Y,2005,10,19
+66,Bad,Game 66,/games/game-66,PlayStation 2,4.015802364254874,Sports,Y,1999,3,19
+67,Great,Game 67,/games/game-67,Xbox 360,8.378257352832454,Sports,Y,2009,7,4
+68,Okay,Game 68,/games/game-68,Xbox 360,2.30569195805019,Sports,Y,2011,3,4
+69,Amazing,Game 69,/games/game-69,PC,8.306425177506245,Racing,N,2010,2,26
+70,Good,Game 70,/games/game-70,Xbox 360,1.2033876203499594,Action,Y,2003,12,11
+71,Great,Game 71,/games/game-71,Nintendo DS,0.46945357147813005,Racing,N,2009,10,27
+72,Amazing,Game 72,/games/game-72,Xbox,3.840906114912496,Sports,Y,2003,4,5
+73,Bad,Game 73,/games/game-73,Nintendo 64,0.36731937426613626,RPG,N,2016,12,20
+74,Okay,Game 74,/games/game-74,Nintendo DS,9.572702629833255,Shooter,N,2011,8,11
+75,Amazing,Game 75,/games/game-75,PlayStation 3,8.26205695793966,Puzzle,N,2008,9,10
+76,Mediocre,Game 76,/games/game-76,Wii,8.007696871298752,Racing,N,2013,7,8
+77,Okay,Game 77,/games/game-77,Xbox 360,6.297779229961531,Action,Y,2010,1,6
+78,Good,Game 78,/games/game-78,Wii,2.163240230365535,Action,Y,2016,3,6
+79,Bad,Game 79,/games/game-79,iPhone,5.182603666763922,Fighting,N,2008,12,8
+80,Masterpiece,Game 80,/games/game-80,PC,5.97274072430341,Shooter,Y,2004,9,23
+81,Disaster,Game 81,/games/game-81,iPhone,5.250315008602682,Platformer,Y,2010,12,15
+82,Unbearable,Game 82,/games/game-82,PC,2.602333679515273,Strategy,N,2008,1,26
+83,Unbearable,Game 83,/games/game-83,PlayStation 2,5.152479243147258,Sports,Y,1996,9,14
+84,Unbearable,Game 84,/games/game-84,Wii,4.911863408686266,Platformer,Y,2002,8,11
+85,Great,Game 85,/games/game-85,PC,9.963357758067243,Fighting,Y,2004,1,12
+86,Good,Game 86,/games/game-86,PlayStation,8.974361480462038,Sports,N,1996,6,26
+87,Bad,Game 87,/games/game-87,Nintendo DS,4.633807482156199,Shooter,Y,2007,5,13
+88,Okay,Game 88,/games/game-88,PC,6.229373829351187,Fighting,N,2003,6,8
+89,Great,Game 89,/games/game-89,PC,7.4787160409222855,Sports,Y,2006,10,18
+90,Good,Game 90,/games/game-90,Nintendo DS,0.3486516023382491,Shooter,Y,2014,12,25
+91,Disaster,Game 91,/games/game-91,Wii,8.9492144122784,Adventure,Y,2012,5,1
+92,Mediocre,Game 92,/games/game-92,Wii,8.601268164179238,Platformer,N,2003,6,15
+93,Bad,Game 93,/games/game-93,Nintendo DS,4.574320977737073,Platformer,N,1998,5,8
+94,Unbearable,Game 94,/games/game-94,iPhone,3.9116976608037977,Strategy,Y,1998,11,28
+95,Amazing,Game 95,/games/game-95,PlayStation,2.7295937485631496,Shooter,N,1996,12,11
+96,Masterpiece,Game 96,/games/game-96,Nintendo 64,4.7667682833036835,Racing,Y,2000,5,12
+97,Bad,Game 97,/games/game-97,PlayStation 3,0.4437666353323677,Adventure,N,2005,4,12
+98,Painful,Game 98,/games/game-98,PlayStation,8.521935333470077,RPG,N,2002,3,4
+99,Good,Game 99,/games/game-99,Wii,0.3542236841854507,Sports,Y,2004,3,16
+100,Awful,Game 100,/games/game-100,Nintendo 64,3.29051365369871,Adventure,Y,2002,4,4
+101,Disaster,Game 101,/games/game-101,PlayStation 2,9.315894883189898,Shooter,Y,2004,9,5
+102,Mediocre,Game 102,/games/game-102,Xbox 360,7.352126545234528,Puzzle,Y,2003,2,24
+103,Disaster,Game 103,/games/game-103,PC,2.813909605775268,Sports,N,2007,9,5
+104,Bad,Game 104,/games/game-104,Nintendo DS,2.526490939608851,Action,N,1997,1,8
+105,Awful,Game 105,/games/game-105,Nintendo DS,0.05082139818025966,Platformer,N,1996,1,10
+106,Painful,Game 106,/games/game-106,PC,6.957142928497502,Shooter,Y,2011,5,17
+107,Okay,Game 107,/games/game-107,Xbox 360,0.48783581673173093,Action,Y,2000,6,28
+108,Amazing,Game 108,/games/game-108,PlayStation 3,5.326025194007621,Strategy,N,1998,6,26
+109,Awful,Game 109,/games/game-109,Xbox 360,9.621219725920497,Fighting,Y,2007,3,9
+110,Good,Game 110,/games/game-110,Nintendo 64,1.0946886005445389,RPG,N,2003,7,22
+111,Unbearable,Game 111,/games/game-111,Xbox 360,8.944799309680674,RPG,N,1998,9,19
+112,Painful,Game 112,/games/game-112,Nintendo 64,9.914753351450482,Action,N,1996,11,14
+113,Amazing,Game 113,/games/game-113,Xbox 360,0.6151702623923505,Platformer,N,1998,12,8
+114,Masterpiece,Game 114,/games/game-114,PlayStation 3,8.829062691374613,Strategy,N,2000,10,9
+115,Mediocre,Game 115,/games/game-115,PlayStation 3,5.160790204436166,Puzzle,Y,2010,8,22
+116,Unbearable,Game 116,/games/game-116,Wii,9.0651371944458,Platformer,Y,2009,6,11
+117,Bad,Game 117,/games/game-117,PC,5.713189419195741,Adventure,Y,1998,12,23
+118,Awful,Game 118,/games/game-118,PlayStation 3,6.621120101065646,RPG,N,1996,8,1
+119,Amazing,Game 119,/games/game-119,Nintendo 64,5.437789079973992,Adventure,N,2000,12,14
+120,Great,Game 120,/games/game-120,PlayStation 3,8.644928803073485,Sports,N,2009,5,5
+121,Okay,Game 121,/games/game-121,Wii,7.339099189537017,Racing,N,2002,8,21
+122,Masterpiece,Game 122,/games/game-122,Nintendo DS,5.212603121804149,Shooter,Y,2004,10,26
+123,Okay,Game 123,/games/game-123,Nintendo 64,8.681608040515469,Strategy,Y,2010,12,14
+124,Painful,Game 124,/games/game-124,Wii,2.4528553225533454,Platformer,N,2010,4,4
+125,Mediocre,Game 125,/games/game-125,iPhone,1.5734065970252598,RPG,N,2005,10,22
+126,Painful,Game 126,/games/game-126,iPhone,1.604001053300721,Adventure,N,2008,8,23
+127,Great,Game 127,/games/game-127,PlayStation 2,3.3400887874523786,Fighting,Y,2014,10,25
+128,Good,Game 128,/games/game-128,Xbox 360,2.386900313010175,Sports,Y,2002,12,1
+129,Mediocre,Game 129,/games/game-129,PC,9.300903505097386,Shooter,Y,2012,2,22
+130,Disaster,Game 130,/games/game-130,Xbox,1.05834093828584,Shooter,N,2015,12,23
+131,Good,Game 131,/games/game-131,PlayStation,6.989907380395877,Platformer,N,1999,12,19
+132,Mediocre,Game 132,/games/game-132,Wii,1.8922153978500589,Strategy,Y,2000,5,8
+133,Mediocre,Game 133,/games/game-133,Nintendo DS,8.816371327703502,Puzzle,N,2002,9,15
+134,Great,Game 134,/games/game-134,PlayStation,9.613152881849075,Fighting,Y,2008,4,21
+135,Bad,Game 135,/games/game-135,Nintendo DS,4.654700087699836,Platformer,N,2010,11,15
+136,Great,Game 136,/games/game-136,PlayStation,8.790714802281316,Adventure,Y,2006,6,9
+137,Mediocre,Game 137,/games/game-137,Wii,0.051451707547147674,Racing,N,1999,1,21
+138,Amazing,Game 138,/games/game-138,Xbox,8.199469174081,Action,Y,2008,9,9
+139,Good,Game 139,/games/game-139,PlayStation,2.286251615249235,Puzzle,Y,2002,1,10
+140,Great,Game 140,/games/game-140,Wii,9.08701309269368,Strategy,Y,2014,5,20
+141,Bad,Game 141,/games/game-141,PlayStation 3,0.011201114801094869,Sports,Y,1997,4,25
+142,Awful,Game 142,/games/game-142,Xbox,5.56181735039757,Puzzle,Y,2005,12,21
+143,Painful,Game 143,/games/game-143,Nintendo 64,7.566358037849347,RPG,Y,2008,3,26
+144,Mediocre,Game 144,/games/game-144,Nintendo DS,2.5868833069790798,Strategy,N,2016,6,9
+145,Disaster,Game 145,/games/game-145,iPhone,1.9313286458729306,Racing,N,2001,2,3
+146,Awful,Game 146,/games/game-146,Xbox 360,0.8409822446798465,RPG,N,2007,3,20
+147,Okay,Game 147,/games/game-147,iPhone,3.2643357650329294,Puzzle,Y,2007,5,25
+148,Unbearable,Game 148,/games/game-148,Xbox,5.598443123088295,,Y,2015,9,26
+149,Bad,Game 149,/games/game-149,Nintendo 64,1.1584385678025766,Action,N,2006,2,11
+150,Disaster,Game 150,/games/game-150,Nintendo DS,3.7669536198679876,Racing,Y,2002,10,6
+151,Unbearable,Game 151,/games/game-151,Nintendo 64,0.09072404652724964,Shooter,Y,1996,8,2
+152,Bad,Game 152,/games/game-152,PlayStation,8.186794204998417,Fighting,Y,1996,2,7
+153,Amazing,Game 153,/games/game-153,Nintendo DS,1.2844871809319136,Sports,Y,2015,11,18
+154,Painful,Game 154,/games/game-154,PlayStation,2.833429482655816,Shooter,Y,2008,5,27
+155,Awful,Game 155,/games/game-155,Wii,0.1842771873821747,Action,N,2004,7,2
+156,Good,Game 156,/games/game-156,Xbox,4.322407838925123,Action,N,1998,8,27
+157,Bad,Game 157,/games/game-157,Wii,8.401215027412189,Adventure,N,2002,1,17
+158,Good,Game 158,/games/game-158,PlayStation 2,3.921512114451966,RPG,N,2001,6,11
+159,Painful,Game 159,/games/game-159,Nintendo 64,1.794973234238334,Puzzle,N,2003,1,27
+160,Mediocre,Game 160,/games/game-160,PlayStation,7.536988340505192,Sports,Y,2004,2,12
+161,Okay,Game 161,/games/game-161,PlayStation 3,7.888069818707443,Racing,Y,2000,1,27
+162,Awful,Game 162,/games/game-162,Wii,1.737534753075668,Puzzle,Y,1996,11,19
+163,Painful,Game 163,/games/game-163,PlayStation 2,7.708541085409898,Adventure,Y,2014,5,22
+164,Painful,Game 164,/games/game-164,PC,9.47297888256338,Action,N,2005,10,24
+165,Amazing,Game 165,/games/game-165,iPhone,1.6637758693227234,Racing,N,2007,9,25
+166,Unbearable,Game 166,/games/game-166,Nintendo DS,7.709842925321356,Action,N,2010,6,7
+167,Okay,Game 167,/games/game-167,PlayStation 2,7.085720046026294,Sports,Y,2004,11,20
+168,Awful,Game 168,/games/game-168,Xbox,4.735738884350885,RPG,N,2015,11,6
+169,Mediocre,Game 169,/games/game-169,Wii,0.5792046055879829,Puzzle,Y,2012,1,21
+170,Mediocre,Game 170,/games/game-170,Xbox,0.7469441775785401,Puzzle,N,2012,1,24
+171,Great,Game 171,/games/game-171,iPhone,8.524146591986476,Shooter,N,2015,2,1
+172,Painful,Game 172,/games/game-172,PlayStation 3,9.90148372750647,Racing,Y,2007,9,17
+173,Bad,Game 173,/games/game-173,Nintendo 64,6.760522571867544,Fighting,Y,2002,3,11
+174,Amazing,Game 174,/games/game-174,Nintendo 64,4.459583070103214,Adventure,N,1997,1,22
+175,Okay,Game 175,/games/game-175,Xbox,6.475736434019076,Fighting,N,1998,5,26
+176,Mediocre,Game 176,/games/game-176,PlayStation,5.943958592285453,Shooter,Y,2012,7,28
+177,Awful,Game 177,/games/game-177,PlayStation 3,3.836122604056218,Sports,N,2000,6,18
+178,Great,Game 178,/games/game-178,Nintendo 64,0.6562614457401295,Adventure,N,2012,12,21
+179,Awful,Game 179,/games/game-179,PlayStation 3,8.21512947407441,RPG,Y,2012,1,17
+180,Amazing,Game 180,/games/game-180,PlayStation 2,3.7183352923872457,Fighting,N,2012,5,7
+181,Bad,Game 181,/games/game-181,PlayStation 3,8.187856433570937,RPG,Y,1997,5,17
+182,Great,Game 182,/games/game-182,Xbox 360,2.525087496883822,Fighting,N,1997,6,20
+183,Great,Game 183,/games/game-183,iPhone,0.010294798456333965,RPG,Y,2000,3,9
+184,Unbearable,Game 184,/games/game-184,Nintendo 64,1.5893828327675652,Fighting,N,1996,5,17
+185,Okay,Game 185,/games/game-185,PlayStation 3,4.6853941676858435,RPG,Y,1996,7,20
+186,Great,Game 186,/games/game-186,Xbox,9.443036349578298,Shooter,N,2014,5,22
+187,Masterpiece,Game 187,/games/game-187,PC,1.0219361969371898,Strategy,Y,1997,5,22
+188,Unbearable,Game 188,/games/game-188,Xbox 360,8.54209774461566,Adventure,N,2016,5,28
+189,Unbearable,Game 189,/games/game-189,Xbox 360,5.270240962118621,Racing,N,2007,10,8
+190,Amazing,Game 190,/games/game-190,PlayStation,8.259207657998966,Sports,N,2001,10,17
+191,Masterpiece,Game 191,/games/game-191,PlayStation 3,2.983744309899926,Platformer,N,1999,3,7
+192,Good,Game 192,/games/game-192,PlayStation,8.399471646724718,Action,N,2006,1,1
+193,Awful,Game 193,/games/game-193,PlayStation,7.728227800168045,Racing,N,2012,5,13
+194,Bad,Game 194,/games/game-194,PC,2.300536830314339,Action,N,2001,9,23
+195,Disaster,Game 195,/games/game-195,PlayStation 2,1.3133512640937806,Adventure,N,2000,1,19
+196,Awful,Game 196,/games/game-196,PlayStation 3,8.680543225322928,Racing,N,2015,3,27
+197,Great,Game 197,/games/game-197,Wii,9.632366534401319,RPG,Y,1997,4,24
+198,Bad,Game 198,/games/game-198,Nintendo 64,0.3130231374751624,RPG,Y,2001,1,19
+199,Mediocre,Game 199,/games/game-199,PlayStation,7.312700669736856,Platformer,N,2006,1,17
+200,Good,Game 200,/games/game-200,iPhone,9.095245109478183,Action,Y,2011,8,13
+201,Mediocre,Game 201,/games/game-201,Nintendo DS,,Sports,N,2011,2,16
+202,Masterpiece,Game 202,/games/game-202,iPhone,9.645204722702086,Adventure,N,1996,12,8
+203,Mediocre,Game 203,/games/game-203,PC,7.600940784380972,RPG,Y,2004,8,19
+204,Okay,Game 204,/games/game-204,PC,4.422987623809103,Strategy,N,2001,7,18
+205,Awful,Game 205,/games/game-205,Xbox,3.1195199049513045,Shooter,N,2011,10,1
+206,Disaster,Game 206,/games/game-206,PlayStation 2,3.2074274043812743,Shooter,Y,1998,10,14
+207,Amazing,Game 207,/games/game-207,Nintendo 64,7.24422672614117,Fighting,Y,2015,2,19
+208,Disaster,Game 208,/games/game-208,PlayStation,7.4583701203096435,Sports,N,1999,6,15
+209,Mediocre,Game 209,/games/game-209,iPhone,2.0035914354871265,Shooter,Y,2014,6,18
+210,Great,Game 210,/games/game-210,Nintendo DS,8.68122813490531,Fighting,Y,1998,3,2
+211,Good,Game 211,/games/game-211,PC,7.1492404020224765,Action,N,2014,11,22
+212,Painful,Game 212,/games/game-212,PC,5.627502863433826,,Y,2015,2,28
+213,Disaster,Game 213,/games/game-213,PlayStation 2,4.715324601025127,RPG,Y,2002,12,17
+214,Mediocre,Game 214,/games/game-214,Nintendo DS,5.432328057899581,Strategy,N,2015,1,18
+215,Good,Game 215,/games/game-215,Nintendo DS,1.5924573827926447,Racing,Y,2004,6,6
+216,Bad,Game 216,/games/game-216,PlayStation 2,2.037012492762742,Shooter,Y,1996,12,19
+217,Awful,Game 217,/games/game-217,PC,0.9116449040619168,Action,N,2003,5,4
+218,Unbearable,Game 218,/games/game-218,Nintendo 64,1.5365803816111268,Puzzle,N,2002,11,1
+219,Okay,Game 219,/games/game-219,PlayStation 3,4.536936346052826,Shooter,N,2013,9,8
+220,Good,Game 220,/games/game-220,PlayStation 3,5.303543937282561,Sports,Y,2003,1,23
+221,Great,Game 221,/games/game-221,PlayStation 2,0.17861892478319374,Racing,N,1996,7,7
+222,Masterpiece,Game 222,/games/game-222,Nintendo DS,7.967978278640276,Shooter,N,2006,5,3
+223,Great,Game 223,/games/game-223,PlayStation,2.941679733434779,Action,Y,2013,5,10
+224,Good,Game 224,/games/game-224,PlayStation 2,9.118360349599111,Shooter,N,2005,2,10
+225,Great,Game 225,/games/game-225,Nintendo 64,9.675112636137777,Sports,N,1998,11,19
+226,Awful,Game 226,/games/game-226,PlayStation 2,1.8545887467665434,Puzzle,N,2002,3,14
+227,Great,Game 227,/games/game-227,Xbox 360,4.620972907656606,,N,2011,7,2
+228,Disaster,Game 228,/games/game-228,iPhone,0.012318351664258875,Platformer,Y,2011,6,28
+229,Unbearable,Game 229,/games/game-229,Nintendo DS,5.9832726512242695,Puzzle,N,2015,12,1
+230,Great,Game 230,/games/game-230,Xbox,6.073064482626712,Fighting,N,2012,2,23
+231,Unbearable,Game 231,/games/game-231,Xbox,2.475399556033752,Shooter,Y,1997,6,23
+232,Mediocre,Game 232,/games/game-232,Nintendo DS,5.584126725831979,RPG,N,1996,2,28
+233,Amazing,Game 233,/games/game-233,Nintendo 64,2.2554014244373546,Strategy,Y,2011,2,18
+234,Awful,Game 234,/games/game-234,Xbox 360,1.6082546907819006,RPG,Y,2007,2,7
+235,Amazing,Game 235,/games/game-235,Xbox 360,6.515194668022647,Puzzle,Y,2000,11,8
+236,Mediocre,Game 236,/games/game-236,PC,3.2592546395207487,RPG,N,2000,3,1
+237,Awful,Game 237,/games/game-237,iPhone,5.902639388856224,Action,Y,2004,2,25
+238,Good,Game 238,/games/game-238,PlayStation 3,4.3324674897165565,RPG,Y,2004,4,23
+239,Good,Game 239,/games/game-239,Wii,9.84351407402904,Racing,Y,1998,9,3
+240,Unbearable,Game 240,/games/game-240,Nintendo 64,1.4958064266756577,,N,2014,6,24
+241,Mediocre,Game 241,/games/game-241,Wii,4.645985966358102,Shooter,N,2011,1,23
+242,Unbearable,Game 242,/games/game-242,Wii,6.8045662635932525,RPG,N,2011,8,27
+243,Okay,Game 243,/games/game-243,Nintendo DS,3.9554508387996865,Sports,N,1998,12,8
+244,Great,Game 244,/games/game-244,Xbox,9.7469985187069,Adventure,N,2015,7,22
+245,Painful,Game 245,/games/game-245,Xbox,7.218876279269351,Adventure,N,1996,10,25
+246,Okay,Game 246,/games/game-246,PlayStation 3,6.569838575644931,RPG,N,2015,3,15
+247,Great,Game 247,/games/game-247,Nintendo DS,7.570592676112233,Adventure,Y,2006,1,5
+248,Awful,Game 248,/games/game-248,Wii,9.52648638038717,Strategy,Y,2012,5,3
+249,Unbearable,Game 249,/games/game-249,PlayStation,9.078186529846402,RPG,Y,2003,4,19
+250,Awful,Game 250,/games/game-250,Xbox,7.242853081264119,Action,Y,1999,10,1
+251,Awful,Game 251,/games/game-251,Nintendo 64,7.491616391012831,Puzzle,N,2001,8,28
+252,Great,Game 252,/games/game-252,Nintendo 64,1.4592207403514545,Racing,Y,2003,1,15
+253,Mediocre,Game 253,/games/game-253,PC,1.027924044926657,Platformer,Y,2015,10,8
+254,Masterpiece,Game 254,/games/game-254,PlayStation 2,5.709045018441643,Fighting,Y,1998,1,2
+255,Great,Game 255,/games/game-255,PlayStation,0.1836763694054,Adventure,Y,2011,12,3
+256,Bad,Game 256,/games/game-256,Xbox,4.823563815515915,Action,N,1998,4,24
+257,Good,Game 257,/games/game-257,Xbox 360,2.103495799188686,Shooter,N,2013,8,14
+258,Good,Game 258,/games/game-258,Xbox,3.460165676448396,Shooter,N,2009,5,24
+259,Okay,Game 259,/games/game-259,PC,7.758047357929561,Fighting,Y,2013,2,14
+260,Good,Game 260,/games/game-260,Nintendo 64,9.412375042323864,Racing,N,1997,6,11
+261,Great,Game 261,/games/game-261,Wii,0.724162721463415,Adventure,Y,1998,5,16
+262,Disaster,Game 262,/games/game-262,Xbox 360,5.342422059764451,Strategy,N,2011,2,4
+263,Unbearable,Game 263,/games/game-263,Nintendo DS,8.825334858196,Fighting,N,2004,11,20
+264,Great,Game 264,/games/game-264,iPhone,0.8250853444042128,Racing,N,1999,11,5
+265,Masterpiece,Game 265,/games/game-265,Wii,8.245140468968339,Adventure,N,1996,11,22
+266,Great,Game 266,/games/game-266,iPhone,3.5780135092827137,Action,N,1999,3,21
+267,Painful,Game 267,/games/game-267,PlayStation,3.2209470221933536,Puzzle,Y,1996,9,14
+268,Unbearable,Game 268,/games/game-268,PlayStation 2,9.774663863147858,Strategy,N,2009,7,23
+269,Bad,Game 269,/games/game-269,Xbox 360,2.0085908986229417,Platformer,Y,2016,7,16
+270,Good,Game 270,/games/game-270,PlayStation 3,6.9319394082268095,Shooter,Y,2011,11,18
+271,Unbearable,Game 271,/games/game-271,Xbox 360,8.214407280098664,,Y,2015,6,7
+272,Good,Game 272,/games/game-272,Xbox,0.41183495279271676,Action,Y,2003,8,10
+273,Okay,Game 273,/games/game-273,Nintendo 64,6.703854583544122,Shooter,Y,2002,4,7
+274,Unbearable,Game 274,/games/game-274,Xbox,9.515499743553269,RPG,N,1998,8,1
+275,Good,Game 275,/games/game-275,Xbox,1.2421996672805935,Sports,N,2012,4,23
+276,Bad,Game 276,/games/game-276,PlayStation,8.962213026850383,Shooter,N,1996,8,21
+277,Amazing,Game 277,/games/game-277,Wii,5.947766373769361,Racing,N,2011,9,19
+278,Awful,Game 278,/games/game-278,PlayStation 3,6.16604581862474,Strategy,Y,2007,3,16
+279,Awful,Game 279,/games/game-279,PlayStation 3,6.12944174865606,Shooter,N,2014,3,19
+280,Bad,Game 280,/games/game-280,Xbox,2.988358863373138,Platformer,N,2009,11,4
+281,Painful,Game 281,/games/game-281,iPhone,9.352018152994596,Puzzle,Y,2001,2,28
+282,Amazing,Game 282,/games/game-282,PlayStation,9.473504626310387,Racing,Y,2001,10,18
+283,Okay,Game 283,/games/game-283,Xbox,6.253046602139478,Action,N,2008,3,2
+284,Bad,Game 284,/games/game-284,PlayStation 2,7.834227259416147,Action,N,2014,3,1
+285,Awful,Game 285,/games/game-285,Nintendo 64,6.12257985881158,Action,Y,2003,5,15
+286,Awful,Game 286,/games/game-286,Wii,,Action,N,1997,5,5
+287,Awful,Game 287,/games/game-287,Nintendo DS,6.608201182992507,Puzzle,N,2016,2,20
+288,Mediocre,Game 288,/games/game-288,PlayStation 2,5.530014525919585,Shooter,N,1996,12,11
+289,Bad,Game 289,/games/game-289,iPhone,5.974758626319301,Adventure,N,2010,10,10
+290,Great,Game 290,/games/game-290,Xbox 360,7.83832553418862,Shooter,Y,1996,6,2
+291,Okay,Game 291,/games/game-291,Xbox 360,4.8090383144898485,RPG,Y,2000,5,3
+292,Awful,Game 292,/games/game-292,PlayStation 2,0.40754106092472764,Strategy,Y,2011,6,23
+293,Good,Game 293,/games/game-293,Xbox,1.6399948098949724,Sports,N,2014,1,23
+294,Bad,Game 294,/games/game-294,Nintendo DS,4.386072164895384,Adventure,N,1999,5,12
+295,Masterpiece,Game 295,/games/game-295,PC,7.248265598740583,Adventure,N,1998,9,20
+296,Mediocre,Game 296,/games/game-296,PC,5.932786483101787,Shooter,N,2012,12,5
+297,Bad,Game 297,/games/game-297,iPhone,6.502941858734539,Adventure,N,2012,10,5
+298,Okay,Game 298,/games/game-298,Xbox,4.792789285762873,Fighting,Y,2007,2,6
+299,Mediocre,Game 299,/games/game-299,PlayStation 3,6.157420219422428,Fighting,N,2009,1,9
+300,Okay,Game 300,/games/game-300,PlayStation 3,3.290174378146622,RPG,N,2016,10,2
+301,Bad,Game 301,/games/game-301,Wii,4.7018259269666505,Sports,Y,2001,11,21
+302,Great,Game 302,/games/game-302,Nintendo DS,7.4427906559495565,Platformer,N,1998,9,12
+303,Masterpiece,Game 303,/games/game-303,Nintendo DS,8.718327789731212,Puzzle,Y,2004,10,3
+304,Okay,Game 304,/games/game-304,Xbox 360,4.336553339563888,Shooter,Y,2000,9,20
+305,Mediocre,Game 305,/games/game-305,PlayStation,0.4366165770736119,Puzzle,Y,2012,9,26
+306,Mediocre,Game 306,/games/game-306,iPhone,1.6167254414680265,Platformer,Y,2009,6,22
+307,Okay,Game 307,/games/game-307,PC,0.208611392915381,Shooter,Y,2016,8,12
+308,Disaster,Game 308,/games/game-308,iPhone,6.532630192373301,Shooter,N,1998,11,24
+309,Bad,Game 309,/games/game-309,PlayStation 3,3.323146253551089,,Y,1996,1,17
+310,Disaster,Game 310,/games/game-310,PlayStation 3,5.424786357193675,Puzzle,Y,2015,10,10
+311,Painful,Game 311,/games/game-311,PlayStation 2,4.932768467837995,Fighting,N,2016,4,24
+312,Bad,Game 312,/games/game-312,Wii,0.815264895524267,Action,N,1996,1,27
+313,Okay,Game 313,/games/game-313,Nintendo DS,4.032613611238318,Puzzle,Y,1998,8,14
+314,Amazing,Game 314,/games/game-314,Nintendo 64,2.2056112492232325,Strategy,N,2013,1,23
+315,Okay,Game 315,/games/game-315,iPhone,4.1839978866765275,Strategy,N,2005,3,17
+316,Disaster,Game 316,/games/game-316,PlayStation 3,2.0357828034224266,Shooter,Y,1998,4,18
+317,Great,Game 317,/games/game-317,PlayStation,8.404524062769335,Action,Y,2003,8,19
+318,Okay,Game 318,/games/game-318,Xbox 360,1.7419333657825364,Racing,N,2009,6,17
+319,Okay,Game 319,/games/game-319,PC,9.607805514869769,Platformer,Y,2013,10,14
+320,Great,Game 320,/games/game-320,Wii,4.159073661469408,RPG,Y,2010,12,9
+321,Okay,Game 321,/games/game-321,PlayStation,8.462452920190493,Action,N,1997,7,8
+322,Awful,Game 322,/games/game-322,Wii,6.287648182059451,RPG,Y,2005,8,2
+323,Amazing,Game 323,/games/game-323,PlayStation 2,7.353502986657526,Puzzle,Y,1997,2,13
+324,Good,Game 324,/games/game-324,Nintendo 64,7.677238880667803,Puzzle,Y,2012,10,25
+325,Amazing,Game 325,/games/game-325,PlayStation 3,5.0484488189301775,RPG,Y,2003,11,7
+326,Masterpiece,Game 326,/games/game-326,Xbox 360,5.433005233632883,Platformer,Y,1996,8,9
+327,Okay,Game 327,/games/game-327,PlayStation,5.1399586780872495,Action,N,2004,3,22
+328,Awful,Game 328,/games/game-328,Wii,5.880583780900793,Racing,N,2006,7,22
+329,Bad,Game 329,/games/game-329,Nintendo DS,0.2939444575650729,Shooter,Y,2011,3,11
+330,Okay,Game 330,/games/game-330,PlayStation 2,3.9551516984901527,Sports,N,2002,7,14
+331,Disaster,Game 331,/games/game-331,Nintendo DS,6.061887135611715,Puzzle,Y,2005,11,4
+332,Awful,Game 332,/games/game-332,Xbox 360,5.977235652558644,Strategy,Y,1998,12,26
+333,Great,Game 333,/games/game-333,PlayStation,7.9295609460563155,Platformer,Y,2013,2,26
+334,Awful,Game 334,/games/game-334,PlayStation 2,6.550093388321086,Sports,Y,2008,10,13
+335,Great,Game 335,/games/game-335,PlayStation,9.921333163406723,Racing,Y,2002,6,2
+336,Painful,Game 336,/games/game-336,PlayStation 3,2.8385452860864504,Adventure,N,1999,3,23
+337,Good,Game 337,/games/game-337,Xbox,3.5915102966623147,Shooter,N,2008,3,5
+338,Unbearable,Game 338,/games/game-338,PlayStation 2,3.838471518677963,Puzzle,Y,2015,9,11
+339,Awful,Game 339,/games/game-339,Nintendo DS,4.658128070202485,Shooter,N,1996,7,6
+340,Mediocre,Game 340,/games/game-340,Xbox 360,8.359980637812095,Sports,Y,2003,5,18
+341,Disaster,Game 341,/games/game-341,Nintendo 64,2.3579209395920984,Shooter,N,2009,12,21
+342,Okay,Game 342,/games/game-342,PlayStation 3,7.760002070354295,Adventure,Y,2011,10,10
+343,Disaster,Game 343,/games/game-343,Xbox,4.053101830857434,Sports,N,2009,7,4
+344,Amazing,Game 344,/games/game-344,Nintendo 64,6.018553836620085,Puzzle,Y,2007,9,9
+345,Unbearable,Game 345,/games/game-345,PC,6.3254053322630615,Action,Y,2014,1,6
+346,Amazing,Game 346,/games/game-346,PlayStation 3,3.7284863718893444,Strategy,N,2010,7,2
+347,Painful,Game 347,/games/game-347,Xbox 360,5.1261520520580515,Sports,N,1997,6,17
+348,Unbearable,Game 348,/games/game-348,Wii,4.13031174647697,Fighting,Y,1997,10,5
+349,Unbearable,Game 349,/games/game-349,PlayStation 2,0.6913278618661944,Adventure,N,2014,12,25
+350,Amazing,Game 350,/games/game-350,PlayStation,4.371653888168265,Sports,Y,2012,9,6
+351,Great,Game 351,/games/game-351,Xbox 360,0.9739339255355217,Sports,N,2015,1,26
+352,Amazing,Game 352,/games/game-352,PlayStation 2,4.050207990803215,Fighting,N,2005,4,12
+353,Disaster,Game 353,/games/game-353,Nintendo 64,5.929183998317819,Puzzle,Y,2001,9,23
+354,Great,Game 354,/games/game-354,PlayStation,5.794148993435008,Sports,N,2010,4,21
+355,Disaster,Game 355,/games/game-355,iPhone,6.626212790083203,Strategy,N,2006,10,10
+356,Painful,Game 356,/games/game-356,Nintendo DS,0.9526150795462629,Shooter,Y,2000,3,22
+357,Okay,Game 357,/games/game-357,PC,6.521232455304379,Puzzle,N,1996,9,21
+358,Masterpiece,Game 358,/games/game-358,PlayStation 3,3.121480566964471,Strategy,Y,2003,2,27
+359,Bad,Game 359,/games/game-359,Xbox 360,3.9904594613711106,Puzzle,Y,2016,4,25
+360,Great,Game 360,/games/game-360,PC,8.579862539227058,Strategy,Y,2007,6,6
+361,Painful,Game 361,/games/game-361,Wii,0.09030404129550251,Adventure,Y,2007,2,27
+362,Masterpiece,Game 362,/games/game-362,PlayStation 2,5.884126333406055,Strategy,Y,2000,8,8
+363,Mediocre,Game 363,/games/game-363,PlayStation 2,5.987139801001076,RPG,N,2002,8,2
+364,Painful,Game 364,/games/game-364,Xbox 360,3.9665977634356198,Strategy,Y,1999,1,12
+365,Amazing,Game 365,/games/game-365,Xbox,2.370278571083362,Action,Y,2001,12,13
+366,Amazing,Game 366,/games/game-366,Xbox,2.346740382615511,Action,N,2008,3,25
+367,Bad,Game 367,/games/game-367,iPhone,8.837096696607526,Platformer,N,2015,10,21
+368,Painful,Game 368,/games/game-368,Nintendo DS,4.420243737828575,RPG,N,2010,9,7
+369,Good,Game 369,/games/game-369,PlayStation,3.3088936298917195,RPG,Y,1998,5,10
+370,Okay,Game 370,/games/game-370,Wii,4.48777573831403,Shooter,Y,2003,6,13
+371,Amazing,Game 371,/games/game-371,PC,6.693904014593613,RPG,Y,2015,4,17
+372,Bad,Game 372,/games/game-372,Xbox,1.457565682447517,Shooter,N,2011,10,26
+373,Okay,Game 373,/games/game-373,iPhone,4.494338352137377,Platformer,Y,2008,2,21
+374,Painful,Game 374,/games/game-374,iPhone,5.878843711103869,Platformer,N,2013,11,28
+375,Painful,Game 375,/games/game-375,Xbox 360,9.485833548514337,Adventure,Y,2005,8,26
+376,Unbearable,Game 376,/games/game-376,Wii,2.5252778207541926,Action,N,2014,11,14
+377,Bad,Game 377,/games/game-377,Nintendo 64,3.592507479162456,Strategy,Y,2012,6,2
+378,Masterpiece,Game 378,/games/game-378,PlayStation,3.7935858992242375,Strategy,Y,2014,5,28
+379,Amazing,Game 379,/games/game-379,Nintendo DS,6.055381576448829,Fighting,Y,2000,9,22
+380,Good,Game 380,/games/game-380,PlayStation 3,3.567320530400017,Fighting,N,2016,1,11
+381,Painful,Game 381,/games/game-381,Xbox 360,5.3351192529969556,Racing,N,2004,5,1
+382,Good,Game 382,/games/game-382,PlayStation,7.817903298450294,Puzzle,Y,2007,6,19
+383,Painful,Game 383,/games/game-383,PlayStation 3,7.053855941122036,Adventure,Y,2016,5,21
+384,Amazing,Game 384,/games/game-384,PlayStation 3,4.463686465125855,Racing,Y,1996,6,4
+385,Okay,Game 385,/games/game-385,Wii,8.64216177674169,Racing,N,1996,6,19
+386,Awful,Game 386,/games/game-386,Wii,5.581402495938629,Sports,Y,2010,7,26
+387,Okay,Game 387,/games/game-387,PC,5.399058395022125,Sports,Y,1997,4,21
+388,Painful,Game 388,/games/game-388,iPhone,0.34187765939158177,Racing,Y,2011,11,11
+389,Disaster,Game 389,/games/game-389,PlayStation,9.866929803571615,RPG,Y,2003,8,8
+390,Awful,Game 390,/games/game-390,Xbox 360,1.2297080852962672,Puzzle,N,2008,7,11
+391,Masterpiece,Game 391,/games/game-391,PlayStation 2,2.311309124276466,Adventure,N,2016,9,4
+392,Awful,Game 392,/games/game-392,Xbox 360,0.5169683724152696,Racing,Y,1996,7,17
+393,Good,Game 393,/games/game-393,PC,6.400029668369137,Strategy,Y,2011,3,27
+394,Bad,Game 394,/games/game-394,Nintendo DS,2.2470117697268,Puzzle,N,2002,3,7
+395,Good,Game 395,/games/game-395,iPhone,1.800104374727235,Sports,N,2000,8,8
+396,Good,Game 396,/games/game-396,PlayStation 2,0.8855558422324139,Strategy,Y,1998,5,3
+397,Masterpiece,Game 397,/games/game-397,Xbox,1.0330895712401567,Sports,N,2007,4,22
+398,Disaster,Game 398,/games/game-398,Nintendo DS,5.8467070044258875,Sports,N,2011,8,2
+399,Okay,Game 399,/games/game-399,Wii,6.882078658665955,Puzzle,Y,2014,6,23
+400,Okay,Game 400,/games/game-400,PlayStation 3,3.97378988464401,Sports,N,2000,2,15
+401,Mediocre,Game 401,/games/game-401,Xbox,4.7989708159207325,Platformer,N,2009,4,24
+402,Painful,Game 402,/games/game-402,Xbox 360,6.859677359829841,Action,Y,2000,12,22
+403,Disaster,Game 403,/games/game-403,Xbox 360,0.17379790185479638,Platformer,Y,2010,11,22
+404,Mediocre,Game 404,/games/game-404,Wii,3.2313065707027855,Action,N,2012,4,5
+405,Amazing,Game 405,/games/game-405,PC,9.730977480703464,Fighting,Y,2009,6,24
+406,Painful,Game 406,/games/game-406,PlayStation,5.801122296954681,Fighting,N,2015,6,1
+407,Painful,Game 407,/games/game-407,Xbox,2.5422457989749327,Sports,Y,2000,1,26
+408,Unbearable,Game 408,/games/game-408,Xbox,5.217300466362131,Adventure,N,2007,8,4
+409,Unbearable,Game 409,/games/game-409,Nintendo 64,3.4265348812091534,Adventure,Y,2011,6,15
+410,Great,Game 410,/games/game-410,Nintendo DS,5.322449888262991,Action,N,2011,3,20
+411,Great,Game 411,/games/game-411,iPhone,1.2574151180664883,Strategy,N,2016,9,19
+412,Good,Game 412,/games/game-412,Nintendo DS,1.3271465381927738,Puzzle,N,2002,2,3
+413,Amazing,Game 413,/games/game-413,PlayStation,1.4354236203939286,Sports,Y,1999,11,20
+414,Awful,Game 414,/games/game-414,Xbox 360,9.398197919268418,Puzzle,Y,1996,8,11
+415,Awful,Game 415,/games/game-415,Xbox 360,7.328989183413418,Platformer,N,2000,10,17
+416,Unbearable,Game 416,/games/game-416,Xbox 360,1.623818946623209,Adventure,N,2005,3,27
+417,Unbearable,Game 417,/games/game-417,Nintendo 64,1.8834908376560144,RPG,Y,2000,12,13
+418,Unbearable,Game 418,/games/game-418,Xbox 360,7.3082947487087635,Platformer,Y,1999,5,11
+419,Disaster,Game 419,/games/game-419,PlayStation,1.5616384479217393,Platformer,Y,1997,6,2
+420,Bad,Game 420,/games/game-420,Wii,2.3456129333482867,Action,Y,2015,10,9
+421,Great,Game 421,/games/game-421,iPhone,9.63346832820399,Shooter,Y,2005,6,26
+422,Disaster,Game 422,/games/game-422,PlayStation,2.5530652472843185,Platformer,Y,2014,4,2
+423,Okay,Game 423,/games/game-423,iPhone,6.616323503711468,Sports,N,1996,3,21
+424,Awful,Game 424,/games/game-424,PlayStation,9.786312874005304,Racing,Y,2000,4,9
+425,Masterpiece,Game 425,/games/game-425,Xbox 360,,Racing,N,2008,1,9
+426,Painful,Game 426,/games/game-426,Wii,0.17515990862062236,Sports,Y,1999,4,8
+427,Great,Game 427,/games/game-427,Xbox,2.4414729042237426,Shooter,Y,2011,1,17
+428,Mediocre,Game 428,/games/game-428,Nintendo DS,8.308771913417054,Shooter,N,2011,12,1
+429,Okay,Game 429,/games/game-429,PlayStation 3,8.646088359550367,Action,N,1997,1,25
+430,Great,Game 430,/games/game-430,Wii,7.685193645237912,Adventure,Y,2012,10,11
+431,Masterpiece,Game 431,/games/game-431,Xbox,1.1310981907657303,Puzzle,N,2015,6,8
+432,Disaster,Game 432,/games/game-432,PC,7.9551037169640315,Shooter,N,2007,5,10
+433,Amazing,Game 433,/games/game-433,PlayStation,9.186777969935044,RPG,N,2013,11,25
+434,Painful,Game 434,/games/game-434,PC,6.006095425462361,Action,N,1998,4,7
+435,Great,Game 435,/games/game-435,Xbox,9.408753563380648,Fighting,Y,1996,11,3
+436,Bad,Game 436,/games/game-436,Wii,8.268388837118774,Strategy,N,1996,3,3
+437,Unbearable,Game 437,/games/game-437,PlayStation,6.669715169909073,Fighting,Y,2014,1,18
+438,Unbearable,Game 438,/games/game-438,PlayStation 3,5.771852367117481,Action,Y,2006,6,5
+439,Painful,Game 439,/games/game-439,Xbox 360,3.485736672419705,Platformer,Y,2000,2,12
+440,Masterpiece,Game 440,/games/game-440,PlayStation,1.5928744524280514,Puzzle,Y,2007,8,12
+441,Disaster,Game 441,/games/game-441,PlayStation,6.0495392269054085,Strategy,N,1998,10,19
+442,Unbearable,Game 442,/games/game-442,Wii,3.1811155361811947,Fighting,N,1996,5,6
+443,Great,Game 443,/games/game-443,Wii,8.664386675276454,Strategy,Y,1996,7,2
+444,Mediocre,Game 444,/games/game-444,Xbox,9.933369373586284,RPG,Y,2003,10,12
+445,Awful,Game 445,/games/game-445,PlayStation 2,7.524277626155725,RPG,Y,2005,12,19
+446,Awful,Game 446,/games/game-446,PlayStation,0.9048169528705075,RPG,Y,2006,2,5
+447,Okay,Game 447,/games/game-447,Nintendo DS,2.8868559553063813,Action,N,2007,8,12
+448,Good,Game 448,/games/game-448,PlayStation,1.0910963176574973,Puzzle,Y,2008,2,27
+449,Amazing,Game 449,/games/game-449,Xbox,6.5051164779171575,Action,N,2007,4,27
+450,Painful,Game 450,/games/game-450,iPhone,7.651908645557847,Racing,Y,2009,1,17
+451,Okay,Game 451,/games/game-451,PC,9.256748308807119,Platformer,Y,1997,5,17
+452,Good,Game 452,/games/game-452,Xbox 360,4.381723464119877,Platformer,Y,2014,9,10
+453,Disaster,Game 453,/games/game-453,PlayStation 2,9.013756495884444,RPG,Y,2013,1,25
+454,Bad,Game 454,/games/game-454,PlayStation 3,8.778911590413275,Racing,N,1998,9,23
+455,Bad,Game 455,/games/game-455,PlayStation 3,3.1719571676539857,,N,2012,11,17
+456,Amazing,Game 456,/games/game-456,PlayStation 3,8.68900625540571,Shooter,N,2003,8,15
+457,Unbearable,Game 457,/games/game-457,Wii,3.7567225188172646,RPG,Y,2005,6,12
+458,Great,Game 458,/games/game-458,PlayStation 3,2.968692745602808,Fighting,Y,1997,7,16
+459,Okay,Game 459,/games/game-459,Xbox 360,6.490746587943931,Action,N,2014,3,24
+460,Okay,Game 460,/games/game-460,PC,3.2838122788508106,RPG,N,2004,1,19
+461,Painful,Game 461,/games/game-461,PlayStation 3,6.302087483291442,Adventure,Y,2002,5,8
+462,Painful,Game 462,/games/game-462,PlayStation,6.098318054986946,Strategy,Y,1999,12,21
+463,Bad,Game 463,/games/game-463,PlayStation,5.634389273484588,Platformer,N,2016,12,17
+464,Bad,Game 464,/games/game-464,Wii,3.804197042327977,Shooter,Y,2013,2,23
+465,Masterpiece,Game 465,/games/game-465,Xbox 360,5.484997216514768,Sports,Y,2008,5,5
+466,Mediocre,Game 466,/games/game-466,PC,5.964854749854216,Shooter,N,2006,8,22
+467,Mediocre,Game 467,/games/game-467,PlayStation 2,5.456868884954734,Platformer,Y,1999,11,16
+468,Masterpiece,Game 468,/games/game-468,Xbox,4.444194527512016,Strategy,N,2016,9,6
+469,Unbearable,Game 469,/games/game-469,PC,0.1466705704626381,Platformer,Y,1999,2,8
+470,Mediocre,Game 470,/games/game-470,Xbox,5.870617077011509,Sports,N,2005,12,25
+471,Great,Game 471,/games/game-471,iPhone,1.6844438514271964,RPG,Y,2000,3,18
+472,Great,Game 472,/games/game-472,Xbox,6.425759689471896,Racing,N,2004,3,25
+473,Okay,Game 473,/games/game-473,Nintendo DS,7.59344327922866,Sports,N,1998,1,12
+474,Awful,Game 474,/games/game-474,PlayStation,5.004453091307415,Platformer,N,2012,8,15
+475,Masterpiece,Game 475,/games/game-475,Xbox 360,5.423636649797383,Platformer,N,1998,6,27
+476,Great,Game 476,/games/game-476,Nintendo 64,9.514785596659912,Adventure,Y,2011,12,26
+477,Good,Game 477,/games/game-477,Wii,8.471673613725741,Adventure,Y,1999,8,9
+478,Bad,Game 478,/games/game-478,Nintendo DS,9.1423651595147,Puzzle,N,2013,11,13
+479,Painful,Game 479,/games/game-479,Xbox,8.137662883195864,Adventure,Y,2012,9,26
+480,Mediocre,Game 480,/games/game-480,PlayStation 3,1.0891834184673144,Action,Y,2002,5,15
+481,Masterpiece,Game 481,/games/game-481,Xbox 360,1.489918559701947,Racing,Y,2000,12,10
+482,Okay,Game 482,/games/game-482,Nintendo DS,5.266237972689596,Strategy,Y,2007,3,16
+483,Amazing,Game 483,/games/game-483,Wii,2.4606965879799825,Sports,Y,2012,5,7
+484,Painful,Game 484,/games/game-484,PlayStation,4.766954750411592,Platformer,N,2008,5,17
+485,Good,Game 485,/games/game-485,Xbox 360,3.943653238183502,Puzzle,N,1998,5,23
+486,Mediocre,Game 486,/games/game-486,Wii,5.494142384304533,Puzzle,N,2004,3,26
+487,Good,Game 487,/games/game-487,iPhone,7.468757161358227,Strategy,N,2012,11,21
+488,Bad,Game 488,/games/game-488,iPhone,7.154909070992744,Racing,Y,2012,10,22
+489,Bad,Game 489,/games/game-489,Wii,5.212341324853344,Sports,Y,2015,4,26
+490,Unbearable,Game 490,/games/game-490,Nintendo DS,8.223934188170581,Shooter,N,2011,9,7
+491,Okay,Game 491,/games/game-491,Xbox 360,4.308620915380334,Adventure,Y,2008,10,14
+492,Painful,Game 492,/games/game-492,Nintendo DS,8.967142898401224,RPG,Y,2014,9,15
+493,Disaster,Game 493,/games/game-493,PlayStation 2,0.7128027005516391,Puzzle,N,2012,2,21
+494,Disaster,Game 494,/games/game-494,Xbox,9.546600300333075,Adventure,Y,1999,8,7
+495,Painful,Game 495,/games/game-495,PlayStation 2,6.546930814313482,Adventure,N,2007,8,9
+496,Amazing,Game 496,/games/game-496,iPhone,3.800745089372053,Action,N,2004,7,19
+497,Okay,Game 497,/games/game-497,PlayStation,1.9715412657287734,Racing,Y,2014,8,16
+498,Good,Game 498,/games/game-498,PC,4.7918322944359995,RPG,Y,2007,3,8
+499,Amazing,Game 499,/games/game-499,Xbox,1.9455832318530097,Shooter,N,2004,6,18
