@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Library Dashboard</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+          rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- SIDEBAR -->
+
+    <div class="sidebar">
+
+        <h2>LIBRARY</h2>
+
+        <ul>
+
+            <li>Dashboard</li>
+
+            <li>Books</li>
+
+            <li>Users</li>
+
+            <li>Reports</li>
+
+            <li>Settings</li>
+
+        </ul>
+
+    </div>
+
+    <!-- MAIN CONTENT -->
+
+    <div class="main">
+
+        <!-- TOPBAR -->
+
+        <div class="topbar">
+
+            <h1>Library Management Dashboard</h1>
+
+            <button>Add New Book</button>
+
+        </div>
+
+        <!-- CARDS -->
+
+        <div class="cards">
+
+            <div class="card">
+
+                <h3>Total Books</h3>
+
+                <p>{{ books|length }}</p>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Issued Books</h3>
+
+                <p>25</p>
+
+            </div>
+
+            <div class="card">
+
+                <h3>Users</h3>
+
+                <p>150</p>
+
+            </div>
+
+        </div>
+
+        <!-- TABLE -->
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+
+                    <tr>
+
+                        <th>ID</th>
+
+                        <th>Title</th>
+
+                        <th>Author</th>
+
+                        <th>Category</th>
+
+                        <th>Price</th>
+
+                        <th>Status</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    {% for book in books %}
+
+                    <tr>
+
+                        <td>{{ book.id }}</td>
+
+                        <td>{{ book.title }}</td>
+
+                        <td>{{ book.author }}</td>
+
+                        <td>{{ book.category }}</td>
+
+                        <td>₹ {{ book.price }}</td>
+
+                        <td>
+
+                            {% if book.available %}
+
+                                <span class="available">
+                                    Available
+                                </span>
+
+                            {% else %}
+
+                                <span class="issued">
+                                    Issued
+                                </span>
+
+                            {% endif %}
+
+                        </td>
+
+                    </tr>
+
+                    {% endfor %}
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
